@@ -8,7 +8,6 @@
 <ul>
 </ul>
 
-
 var view = {
     displayTodos: function() {
         var todosUl = document.querySelector('ul');
